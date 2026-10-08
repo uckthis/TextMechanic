@@ -1,0 +1,62 @@
+# ── Python ─────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ── Virtual environments ──────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── IDEs and editors ─────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ── Build output (PyInstaller) ────────────────────────────────
+build/
+dist/
+*.spec.bak
+*.manifest
+
+# ── Dev helper scripts (kept out of the public repo) ──────────
+_smoke_test.py
+_settings_test.py
+_verify*.py
+_remove_split.py
+_remove.py
+_remove_class.py
+_remove_extra.py
+_rename.py
+_rename2.py
+_debug.py
+_fix_icon.py
+_make_icon.py
+
+# ── Generated icon previews and HTML mockups ─────────────────
+ui_preview_*.html
+ui_*.html
+icon_256.png
+icon_64.png
+icon_redesign.png
+icon_old.png
+
+# ── Old/legacy files no longer used by the app ──────────────
+styles.qss  # superseded by theme_manager.py's QSS template
+
+# ── Windows ──────────────────────────────────────────────────
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ── Logs ──────────────────────────────────────────────────────
+*.log
