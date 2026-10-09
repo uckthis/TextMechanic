@@ -21,6 +21,10 @@ Built with Python + PyQt6.
 - **Persistent settings** — theme, window size, expanded categories, per-tool state, all saved
 - **Modern minimal UI** — clean type, generous spacing, refined color tokens
 
+## Screenshots
+<img width="3840" height="2040" alt="1" src="https://github.com/user-attachments/assets/d357e88a-7845-42f4-975a-7eebbb38a507" />
+<img width="3840" height="2034" alt="2" src="https://github.com/user-attachments/assets/62e402e4-20e5-4285-a5f6-08f1c25a66a5" />
+
 ## Tools
 
 A short description of every tool, grouped by category. Every tool works on text in place — copy in, tweak the controls, copy out. No upload, no server, fully local.
