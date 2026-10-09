@@ -96,10 +96,6 @@ A short description of every tool, grouped by category. Every tool works on text
 
 - **Text Manipulation Notepad** — A scratchpad with a left rail of every operation; queue up to 20 ops, run in order, watch live stats (chars/words/lines) update as you type.
 
-## Screenshots
-
-*Coming soon — drop a screenshot in `docs/` and reference it here.*
-
 ## Download
 
 Grab the latest release from the [Releases](../../releases) page — single-file
