@@ -22,8 +22,9 @@ Built with Python + PyQt6.
 - **Modern minimal UI** — clean type, generous spacing, refined color tokens
 
 ## Screenshots
+<img width="3840" height="2160" alt="1" src="https://github.com/user-attachments/assets/13bb2de8-6447-4bee-b793-a34dca1b2913" />
+<img width="3840" height="2160" alt="2" src="https://github.com/user-attachments/assets/e0d05a08-6d32-45db-96d8-25509e25fc3a" />
 
-*Coming soon — drop a screenshot in `docs/` and reference it here.*
 
 ## Download
 
